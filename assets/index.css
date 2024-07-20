@@ -1,0 +1,137 @@
+.parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.form{
+    background: rgb(255, 255, 255);
+    border: black;
+    border-radius: 20px;
+    height: 500px;
+    width: 350px;
+    position: relative;
+    padding-left: 10px ;
+    border: 1px solid black;
+}
+.logo{
+    position: relative;
+    margin: 5px;
+    margin-top: 1em;
+    margin-bottom: 2rem;
+    left: 50px;
+}
+.btn{
+    background: rgb(57, 121, 148);
+    border-radius: 50px;
+    height: 30px;
+    width: 30%;
+    margin-bottom:1rem ;
+    position: relative;
+
+}
+.btn button{
+    background: pink;
+    border-radius: 50px;
+    height: 25px;
+    width: 90%;
+    margin: 15px;
+    position: relative;
+    top: -12px;
+}
+.lab{
+    background: rgb(57, 121, 148);
+    border-radius: 50px;
+    height: 40px;
+    width: 70%;
+    margin-bottom:1.5rem ;
+    position: relative;
+}
+.lab label{
+    margin: 3px;
+    top: 5px;
+    color: white;
+    position: relative;
+}
+.ctrl{
+    background: pink;
+    width: 250px;
+    height: 30px;
+    border-radius: 40px;
+    position: absolute ;
+    top: 5px;
+}
+.pict{
+    height: 500px;
+    width: 600px;
+    margin-left: 20px;
+}
+.tx{
+    color: rgb(57, 121, 148);
+    background: rgb(204, 216, 216);
+    width: 100%;
+    height: 25%;
+    top: 5px;
+    position: relative;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.color{
+    height: 590px;
+    width: 330px;
+    margin-top: 95px;
+    margin-left: 8px;
+    border-radius: 10px;
+    background: rgb(250, 249, 249);
+}
+.big{
+    height: 590px;
+    margin-top: 90px;
+    margin-left: 30px;
+    width: 1100px;
+    background: rgb(254, 253, 252);
+    border-radius: 10px;
+}
+.fl{
+    display: flex;
+}
+.bl{
+    display: flex;
+    margin-left:335px ;
+    position: relative;
+    top: -100px;
+}
+.pap{
+    display: flex;
+    background: aqua;
+}
+.clr{
+    display: block;
+    height: 45px;
+    width: 320px;
+    margin-top:13px ;
+    margin-left: 5px;
+    border-radius: 10px;
+}
+.pop{
+    background: plum;
+    display: flex;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.lg{
+    position: relative;
+    left: 10px;
+    background: white;
+    height: 50px;
+    top: 30px;
+    border-radius: 10px;
+}
+.sea{
+    background: blue;
+    color: white;
+    height: 50px;
+    border-radius: 10px;
+}
